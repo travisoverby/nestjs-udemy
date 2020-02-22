@@ -1,6 +1,6 @@
 # compiled output
-/dist
-/node_modules
+/task-management/dist
+/task-management/node_modules
 
 # Logs
 logs
